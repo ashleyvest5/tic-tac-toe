@@ -1,0 +1,35 @@
+#board {
+  margin-top: 10px;
+  text-align: center;
+  padding: 0;
+  background: url('http://i.imgur.com/HiwSvVw.jpg?1');
+  border: 8px solid white;
+
+}
+
+.box {
+  border: 2px solid white;
+  height: 165px;
+}
+
+body {
+  background-color: #87CEEB;
+  font-family: serif;
+}
+
+.col-xs-3 {
+  text-align: center;
+}
+
+  button {
+  text-align: center;
+  margin-top: 25px;
+}
+
+.X {
+  color: white;
+}
+
+.O {
+  color: black;
+}
